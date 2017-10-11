@@ -1,2 +1,15 @@
-# should_I_buy_car
-comparison of the weekly costs of Uber vs car ownership
+**Title:** 
+
+**Collaborators:** Jessie Roberts
+
+**Project Purpose:** 
+
+**How is this good for the world:**
+
+
+**Final Vision:** 
+
+
+**What's Next**
+
+**Project Plan**
