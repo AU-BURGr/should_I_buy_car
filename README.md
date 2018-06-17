@@ -2,14 +2,15 @@
 
 **Collaborators:** Jessie Roberts
 
-**Project Purpose:** 
+**Project Purpose:** Create a shiny interface that compares  
 
 **How is this good for the world:**
 
-
 **Final Vision:** 
 
+**What's Next:**
 
-**What's Next**
+**Project Plan:**
 
-**Project Plan**
+
+
